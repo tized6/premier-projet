@@ -2,3 +2,11 @@ Ciao mondo
 Hola, mundo
 Ola mundo
 token qualite de dev : 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
+
+
+
+
+
+pour git
+git commit -a
+git psuh
